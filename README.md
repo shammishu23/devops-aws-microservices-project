@@ -1,3 +1,11 @@
+## Application Screenshots
+
+### Voting App
+![Voting App](docs/vote.png)
+
+### Results Page
+![Results](docs/result.png)
+
 Devops Project: Microservices Deployment on AWS
 
 Overview:
