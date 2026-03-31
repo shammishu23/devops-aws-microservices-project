@@ -45,3 +45,19 @@ Future Improvements:
 • Kubernetes deployment
 • Automated infrastructure provisionig
 
+ Kubernetes Deployment
+
+This project is also deployed using Kubernetes (Minikube).
+
+Components:
+- Vote (Frontend)
+- Result (Frontend)
+- Redis
+- Worker
+- PostgreSQL
+
+Commands Used:
+
+kubectl apply -f k8s/
+kubectl get pods
+kubectl get svc
